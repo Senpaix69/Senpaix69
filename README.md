@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senpaix69" alt="senpaix69" /></a> </p>
 
-- 🔭 I’m currently working on [Insta-2.0](https://insta-2-0-delta.vercel.app)
+- 🔭 I’m currently working on [Insta-2.0](https://insta-2-0-phi.vercel.app)
 
 - 🌱 I’m currently learning **nextjs, firebase, next-auth**
 
