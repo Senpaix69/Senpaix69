@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Senpai</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate ReactJS and Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senpaix69&label=Profile%20views&color=0e75b6&style=flat" alt="senpaix69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senpaix69" alt="senpaix69" /></a> </p>
 
-- 🔭 I’m currently working on [InstaPro](https://insta-pro.vercel.app)
+- 🔭 I’m currently working on NeverLost
+
+- 🔭 My Major Project is [InstaPro](https://insta-pro.vercel.app)
 
 - 🌱 I’m currently learning **nextjs, firebase, next-auth**
 
-- 💬 Ask me about **react, next, tailwindcss**
+- 💬 Ask me about **react, next, tailwindcss, Flutter**
 
 - 📫 How to reach me **raohuraira331.rb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk](https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1p0WpsCNJfOIBq370H45UeEw72hO8PqAG/view?usp=drivesdk)
 
 - ⚡ Fun fact **I have great humour and I'm also a memer**
 
