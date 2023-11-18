@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senpai</h1>
-<h3 align="center">A passionate ReactJS and Flutter Developer</h3>
+<h3 align="center">A passionate MERN and Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senpaix69&label=Profile%20views&color=0e75b6&style=flat" alt="senpaix69" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 My Major Project is [InstaPro](https://insta-pro.vercel.app)
 
-- 🌱 I’m currently learning **nextjs, firebase, next-auth**
+- 🌱 I’m currently learning **FLUTTER WITH NODEJS**
 
-- 💬 Ask me about **react, next, tailwindcss, Flutter**
+- 💬 Ask me about **react, next, tailwindcss, Flutter, Firebase**
 
 - 📫 How to reach me **raohuraira331.rb@gmail.com**
 
