@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senpaix69" alt="senpaix69" /></a> </p>
 
-- 🔭 I’m currently working on NeverLost
+- 🔭 I’m currently working on Application Development
 
-- 🔭 My Major Project is [InstaPro](https://insta-pro.vercel.app)
+- 🔭 My Major Project is React is [InstaPro](https://insta-pro.vercel.app)
 
-- 🌱 I’m currently learning **FLUTTER WITH NODEJS**
+- 🌱 I’m currently a senior **FLUTTER STACK DEVELOPER**
 
-- 💬 Ask me about **react, next, tailwindcss, Flutter, Firebase**
+- 💬 Ask me about **NextJs, MERN, Flutter, Firebase**
 
 - 📫 How to reach me **raohuraira331.rb@gmail.com**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/senpaii_x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senpaii_x69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huraira-younas-a4362b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huraira-younas-a4362b229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hurairayounas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huraira-younas-a4362b229" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/senpai-x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="senpai-x69" height="30" width="40" /></a>
 <a href="https://fb.com/hurri.isbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hurri.isbad" height="30" width="40" /></a>
 <a href="https://instagram.com/senpaii_x69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senpaii_x69" height="30" width="40" /></a>
