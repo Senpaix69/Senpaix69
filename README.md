@@ -3,10 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Senpaix69/count.svg? />
+  <img src="https://profile-counter.glitch.me/Senpaix69/count.svg?" />
 </div>
 
-###
 ###
 
 <div align="center">
